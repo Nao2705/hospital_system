@@ -3,9 +3,8 @@
 Архитектура Программных систем - упражнения.
 В данной работе будет рассматриваться симуляция работы больницы: распределение приходящих пациентов, их ожидание в очереди и дальнейший прием врачом как пример СМО.
 
-Также в данной файле представлен второй этап - создания артефактов для работы 
-Note for teacher :)
-Работа была сделана и представлена вовремя, но после замечаний по другой группе было принято попытаться улучшить артефакты
+Также в данной файле представлен второй этап - создания артефактов для работы.<br /> 
+**P.S. Работа была сделана и представлена вовремя, но после замечаний по другой группе было принято попытаться улучшить артефакты**<br /> 
 ## Финальная версия
 #### 1. Sequence Diagram
 ![Image alt](https://github.com/Nao2705/hospital_system/blob/main/hospital_sequence_new.png)
@@ -13,10 +12,10 @@ Note for teacher :)
 ![Image alt](https://github.com/Nao2705/hospital_system/blob/main/hospital_class_diagram.png)
 #### 3. Flowchart
 ![Image alt](https://github.com/Nao2705/hospital_system/blob/main/hospital_flowchart.png)
+<br /> 
+================================================================
 
-
-
-## Первая версия
+## Первая версия 
 #### 1. Sequence Diagram
 ![Image alt](https://github.com/Nao2705/hospital_system/blob/main/sequence_diagram_hospital_final.png)
 #### 2. Class Diagram
